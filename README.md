@@ -42,11 +42,11 @@ This is an API Design of the Flight Booking System which was designed using the 
 It is used to autheticate the user using the JWT tokens   
 Github Repo Link : [clickhere](https://github.com/SHAIKASIFALI/AUTH_SERVICE)
 
-- ***FlightsSearchService*** 
+- ***FlightsSearchService***   
 It is used to search the flights between two different cities   
 Github Repo Link : [clickhere](https://github.com/SHAIKASIFALI/FlightsandSearchService)  
 
-- ***Booking Service***
+- ***Booking Service***  
 It is used to Book the flights .  
 Github Repo Link : [clickhere](https://github.com/SHAIKASIFALI/BoookingServicee)
 
@@ -54,7 +54,7 @@ Github Repo Link : [clickhere](https://github.com/SHAIKASIFALI/BoookingServicee)
 It is used to send emails to user regarding their flight bookings 
 Github Repo Link : [clickhere](https://github.com/SHAIKASIFALI/REMAINDER-SERVICE)
 
-- ***API Gateway***
+- ***API Gateway***  
 It is used to route the client requests to their respective microservices also have ratelimiting in the API Gateway.  
 Github Repo Link :[clickhere](https://github.com/SHAIKASIFALI/API-Gateway)
 
